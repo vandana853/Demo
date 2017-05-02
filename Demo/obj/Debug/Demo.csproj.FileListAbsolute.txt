@@ -1,0 +1,5 @@
+c:\users\invas4\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe.config
+c:\users\invas4\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe
+c:\users\invas4\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\invas4\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.exe
+c:\users\invas4\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.pdb
